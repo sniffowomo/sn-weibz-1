@@ -10,6 +10,7 @@
 ----
 1. [What ?](#what-)
 2. [Breakdown](#breakdown)
+3. [Dirz](#dirz)
 
 ----
 
@@ -25,3 +26,8 @@ Work beakdown in the branches
 N | W 
 |:--:|:--:|
 `w1` | Main workz branches 
+
+# Dirz
+
+1. Dirz in which the work is actually going on 
+
