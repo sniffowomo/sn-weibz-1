@@ -3,7 +3,7 @@ echo "==================="
 echo ""
 echo "git add -all && git commit -m <addurshit>&& git push"
 git add --all 
-git commit -m "🎇"
+git commit -m "🎇:w1"
 git push --progress
 echo ""
 echo "=========PUSH DONE========="
