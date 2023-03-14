@@ -4,7 +4,7 @@ import styles from "./page.module.css";
 import Link from "next/link";
 import { headers } from "next/headers";
 
-// This setionis for importing the image 
+// This setionis for importing the image
 import booty from "../public/b.gif";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -17,11 +17,7 @@ export default function Home() {
       <h1>Sup Brah</h1>
       <Link href="/about">Go to About page</Link>
       <h2> Nose in her booty </h2>
-      <Image
-        src={booty}
-        alt="BootyAdoration"
-      />
-      ;
+      <Image src={booty} alt="BootyAdoration" />;
       <h3>
         <code>This is the main </code>
       </h3>{" "}
