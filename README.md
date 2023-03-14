@@ -10,7 +10,8 @@
 ----
 1. [What ?](#what-)
 2. [Breakdown](#breakdown)
-3. [Dirz](#dirz)
+3. [Branch Info](#branch-info)
+4. [Dirz](#dirz)
 
 ----
 
@@ -26,6 +27,11 @@ Work beakdown in the branches
 N | W 
 |:--:|:--:|
 `w1` | Main workz branches 
+
+# Branch Info 
+
+1. Note branch pw1 is for pushing to vercel
+
 
 # Dirz
 
