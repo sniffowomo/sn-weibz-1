@@ -9,6 +9,7 @@ export default function Home() {
     <main className={styles.main}>
     
     <h1>Sup Brah</h1>
+    <h2> Nose in her booty   </h2>
     <h3><code>This is the main </code></h3>
   
 
