@@ -12,6 +12,7 @@
 2. [Breakdown](#breakdown)
 3. [Branch Info](#branch-info)
 4. [Dirz](#dirz)
+5. [Websites](#websites)
 
 ----
 
@@ -37,3 +38,10 @@ N | W
 
 1. Dirz in which the work is actually going on 
 
+# Websites 
+
+1. Note when pushing from both branches `w1` and `pw1` , both are getting deployed with the same vercel site 
+
+[`https://womanjuice.vercel.app/`](https://womanjuice.vercel.app/) 
+- Note you even changed the name of the default site 
+- Please also note that whenever you push , a build is being created
