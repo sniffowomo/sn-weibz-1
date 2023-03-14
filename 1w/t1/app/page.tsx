@@ -19,6 +19,7 @@ export default function Home() {
       <h2> Nose in her booty </h2>
       <Image
         src={booty}
+        alt="BootyAdoration"
       />
       ;
       <h3>
