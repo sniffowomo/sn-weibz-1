@@ -2,16 +2,15 @@ import Image from "next/image";
 import { Inter } from "next/font/google";
 import styles from "./page.module.css";
 import Link from "next/link";
-import { headers } from "next/headers";
 
 // This setionis for importing the image
 import booty from "../public/b.gif";
 
 const inter = Inter({ subsets: ["latin"] });
 
-export default function Home() {
-  const headersList = headers();
+// This section is for the actual page
 
+export default function Home() {
   return (
     <main className={styles.main}>
       <h1>Sup Brah</h1>
