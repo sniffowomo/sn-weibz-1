@@ -6,6 +6,8 @@ import Link from "next/link";
 // This setionis for importing the image
 import booty from "../public/b.gif";
 
+// Header section for favicon
+
 const inter = Inter({ subsets: ["latin"] });
 
 // This section is for the actual page
