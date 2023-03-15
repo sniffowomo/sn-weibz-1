@@ -17,7 +17,7 @@ export default function Home() {
       <h1>Sup Brah</h1>
       <Link href="/about">Go to About page</Link>
       <h2> Nose in her booty </h2>
-      <Image src={booty} alt="BootyAdoration" />;
+      <Image src={booty} alt="BootyAdoration" />
       <h3>
         <code>This is the main </code>
       </h3>{" "}
